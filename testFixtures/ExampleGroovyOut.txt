@@ -1,0 +1,13 @@
+# Basic Groovy File
+
+Foo Bar Baz
+
+Example:
+```
+source code follows here
+```
+
+Do some stuff here
+
+!non-api!
+other comment
